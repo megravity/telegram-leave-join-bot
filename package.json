@@ -1,0 +1,13 @@
+{
+    "name": "test-bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "telegraf": "^4.15.3"
+    }
+}
